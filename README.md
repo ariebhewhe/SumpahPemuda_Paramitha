@@ -1,5 +1,6 @@
-# {{Soempah Pemoeda}} ({{ Tugas 2 }})
- Aplikasi tentang sejarah soempah pemoeda
+# Soempah Pemoeda (Tugas 2 )
+## Diskripsi Project 
+ Aplikasi tentang sejarah soempah pemoeda blablbala   
 ### Screenshot
 {{ Letakan gambar aplikasi disini }}
 
